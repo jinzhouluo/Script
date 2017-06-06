@@ -1,0 +1,1 @@
+D: &cd \Program Files\GoData\src\github.com\google\battery-historian\cmd\battery-historian &start go run battery-historian.go
