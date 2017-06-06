@@ -1,0 +1,1 @@
+C: &cd \Program Files\apache-jmeter-3.2\bin\ &start jmeter.bat
